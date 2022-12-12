@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snrrrns&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snrrrns&theme=nord_dark)
+
